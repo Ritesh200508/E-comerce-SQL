@@ -1,1 +1,2 @@
 # E-comerce-SQL
+This project is an E-commerce SQL analysis that explores customer, product, and order data using SQL. It covers a wide range of queries including basic retrieval, filtering, aggregation, grouping, and ordering, along with advanced concepts like joins, subqueries, views, indexing, window functions, and case expressions. The analysis provides insights such as total sales by country and category, top customers by spending, and most popular products. This project is designed as a practical learning resource for practicing SQL on a structured e-commerce dataset.
